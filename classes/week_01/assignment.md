@@ -18,14 +18,12 @@ In addition to answering the questions below and completing the projects, you sh
 9. What is an algorithm? (1 point)
 
 
-## Project: Download and install BlueJ
 
-Go to https://www.bluej.org and download the installer for your operating system. Once downloaded, install and ensure you are able to run BlueJ.
+## Project: Run your first Java program (4 points)
 
+First, go to https://www.bluej.org and download the installer for your operating system. Once downloaded, install and ensure you are able to run BlueJ.
 
-## Project: Run your first Java program
-
-Open BlueJ and follow the instructions below:
+Then, open BlueJ and follow the instructions below:
 
 1. Select the "Project" menu item.
 2. Click on "New Project"
@@ -46,4 +44,5 @@ Open BlueJ and follow the instructions below:
 9. Go back to the main BlueJ window and right click on the "MyProgram" class rectangle. ![Right Click on Class](assets/right_click_on_class.png)
 10. Click on `void main(String[] args)` from this menu.
 11. Leave the argument value as is and click "OK". ![Run Main](assets/ok_run_main.png)
-12. Ensure the Terminal window opens and you see the text "Hello, World" ![Output](assets/hello_world_output.png)
+12. Ensure the Terminal window opens and you see the program output "Hello, World" ![Output](assets/hello_world_output.png)
+13. Create a screenshot of the output of the program. Submit this screenshot alongside your homework to recieve credit for this project.
