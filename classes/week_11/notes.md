@@ -1,0 +1,8 @@
+- DONE Properties
+- DONE Methods
+- DONE Getters and setters
+- DONE Constructors
+- DONE Default constructors
+- DONE OOP
+- DONE Encapsulation
+- DONE String.equals
